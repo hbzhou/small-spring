@@ -1,0 +1,10 @@
+spring\exception\BeanCreationeException.class
+spring\core\BeanFactory.class
+spring\core\BeanDefinition.class
+spring\core\XmlBeanDefinitionReader.class
+spring\core\GenericBeanDefinition.class
+spring\bean\HelloWorldService.class
+spring\exception\BeanDefinitionStoreException.class
+spring\core\BeanDefinitionRegistry.class
+spring\util\ClassUtils.class
+spring\core\DefaultBeanFactory.class
